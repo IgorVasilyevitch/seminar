@@ -4,3 +4,4 @@
 ## Настройка Git
 При первом использовании Git необходимо представиться. Для этого вводим две команды: git config --global user.email. 
 git config --global user.name. 
+Для проверки регистрации используем команду git config --list.
